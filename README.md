@@ -1,24 +1,15 @@
 # Engineering Portfolio
 
-This repository contains a collection of my engineering projects in:
+## 🔬 Control Systems
+- Aerodynamic Ball Levitation Control System
+- Neuro-Fuzzy vs PD Magnetic Levitation
 
-- Robotics
-- Embedded Systems
-- Control Systems
-- Computer Vision
-- Automation
+## 🤖 Robotics
+- Pipe Climbing Robot Control System
 
-Each project includes:
-- Problem Statement
-- System Design
-- Implementation
-- Results
-- Future Improvements
+## 🚗 Autonomous Systems
+- Computer Vision Lane Detection
 
----
-
-## Projects
-
-### 1. (Coming Soon) Embedded Motor Control System
-### 2. (Coming Soon) Computer Vision Object Detection
-### 3. (Coming Soon) Mobile Robot Navigation
+## 🌱 IoT & Embedded
+- IoT Hydroponic Farm Control
+- Electronic Hand Sanitizer (8051)
